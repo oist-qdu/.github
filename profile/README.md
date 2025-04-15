@@ -1,4 +1,4 @@
-![Open Source at Microsoft](./github_image.png)
+![Open Source at Microsoft](./github_image_2.tif)
 
 ## Get things working
 
