@@ -1,4 +1,4 @@
-![Image](./github_image_2.png)
+![Image](./github_image.png)
 
 ## Get things working
 
